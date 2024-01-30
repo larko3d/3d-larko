@@ -11028,6 +11028,9 @@ section.cta:before {
   .features-device-mockup .device-wrapper {
     max-width: 12.5rem;
   }
+  section.cta{
+    background-position: right;
+  }
 }
 @media (min-width: 768px) {
   .features-device-mockup .circle {
